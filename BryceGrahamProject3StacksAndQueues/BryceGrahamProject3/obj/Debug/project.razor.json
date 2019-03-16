@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Code\\School\\CS2282\\BryceGrahamProject3StacksAndQueues-20190316T044748Z-001\\BryceGrahamProject3StacksAndQueues\\BryceGrahamProject3\\BryceGrahamProject3.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

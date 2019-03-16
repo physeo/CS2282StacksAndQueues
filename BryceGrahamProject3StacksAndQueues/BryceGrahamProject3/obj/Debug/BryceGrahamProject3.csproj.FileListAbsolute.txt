@@ -1,0 +1,12 @@
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\bin\Debug\BryceGrahamProject3.exe.config
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.stackTester.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.Properties.Resources.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.csproj.GenerateResource.Cache
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\bin\Debug\BryceGrahamProject3.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\bin\Debug\BryceGrahamProject3.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.pdb
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\bin\Debug\BryceGrahamProject3.exe.config
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.exe
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamProject3\BryceGrahamProject3\obj\Debug\BryceGrahamProject3.pdb
